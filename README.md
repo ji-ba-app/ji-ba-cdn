@@ -15,9 +15,9 @@
 
 ## 演示
 
-| 演示1 | 演示2 |
-|:-:|:-:|
-|![演示1](https://cdn.jiba201.com/video/1.mp4)|![演示2](https://cdn.jiba201.com/video/2.mp4)|
+https://github.com/ji-ba-app/ji-ba-cdn/assets/59038614/1abe93b5-db14-4243-ac27-f3eafc7af4db
+
+https://github.com/ji-ba-app/ji-ba-cdn/assets/59038614/b5a0c919-e7ab-4d8e-8f5f-3271f56b019e
 
 ## CopyRight
 
